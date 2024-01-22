@@ -70,18 +70,13 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
      ```
 
    - Run the client index `npm start`.
-   
-   __OPTIONAL (Recommended For Frontend Developers):__ Can just change the path [here](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/blob/53b64c37981c618802547cd17483525532de83f0/src/config/index.js#L6) to this `https://stackoverflow-clone-backend.herokuapp.com`
-   Now, it will hit PROD
-
 Let me know if you are interested and would want me to assign it to you
 
 ### Docker Setup
 
 The back-end has support for Docker. So if you want to run the back-end in a container, you need do:
 
-- Setup environment variables in `.env` file. Note when you use Docker setup and run the database in localhost (host machine), you need to setup the environment variables for use correct IP of MySQL Database. Please, read [here](https://docs.docker.com/compose/environment-variables/) and [here](https://docs.docker.com/desktop/windows/networking/) for more details.
-
+- Setup environment variables in `.env` file. Note when you use Docker setup and run the database in localhost (host machine), you need to setup the environment variables for use correct IP of MySQL Database. 
 - Build the Docker image:
   ```
   docker build -t stackoverflowclone .
@@ -97,13 +92,3 @@ The default port of api is 5000. After running the container, you can access the
 
 _Follow the steps properly (manual or Docker) and you are good to go._
 
-
-
-#### IMAGES
-
-<img src="/demo/images/1.png" width=340px /><img src="/demo/images/2.png" width=340px />
-<img src="/demo/images/3.png" width=340px /><img src="/demo/images/4.png" width=340px />
-<img src="/demo/images/5.png" width=340px /><img src="/demo/images/6.png" width=340px />
-<img src="/demo/images/7.png" width=340px /><img src="/demo/images/8.png" width=340px />
-<img src="/demo/images/9.png" width=340px /><img src="/demo/images/10.png" width=340px />
-<img src="/demo/images/11.png" width=340px /><img src="/demo/images/12.png" width=340px />
