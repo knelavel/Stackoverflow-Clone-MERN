@@ -6,15 +6,7 @@ https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-
 [![MYSQL](https://img.shields.io/static/v1?label=mysql&message=8.0.10&color=blueviolet)](https://shields.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://shields.io/)
 
-### [🌐 Website](https://stackoverflow-clone-client.vercel.app)  |  [📹 Demo Video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
 
-### API Hosted On
-- __[stackoverflow-clone-api.onrender.com](https://stackoverflow-clone-api.onrender.com) (Primary)__
-- __[stackoverflow-clone-backend.herokuapp.com](https://stackoverflow-clone-backend.herokuapp.com)__
-
-As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
-
-This repo consists of the Frontend code of the project, the backend code is in __[Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)__
 
 ## My Tech Stack (MERN)
 
@@ -105,15 +97,7 @@ The default port of api is 5000. After running the container, you can access the
 
 _Follow the steps properly (manual or Docker) and you are good to go._
 
-## Contributing
 
-- Go to `Contributing.md`
-
-## DEMO
-
-#### VIDEO - [Watch the video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
-
-_Video Last Updated on 7th March, 2022_
 
 #### IMAGES
 
